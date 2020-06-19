@@ -6,11 +6,11 @@
 ### Script ini bertujuan untuk mengirim pesan melalui TCP / W.A.N(Wide Area Network)
 
 ## Script ini menggunakan Python 3 / python 3 +
-<p>Install python3 :<p>
--------------
-    sudo apt-get install python3
+#Install python3 :
+
+    'sudo apt-get install python3
     sudo apt-get install python3-pip
-    sudo apt-get install python-dev
+    sudo apt-get install python-dev'
 
 ## Cara menggunakan script ini
 <p><b>Contoh untuk chat_server.py<b><p>
