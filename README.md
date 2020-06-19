@@ -16,22 +16,22 @@ sudo apt-get install python-dev
 <p><b>Contoh untuk chat_server.py<b><p>
 <br>
 -------------
-chmod +x chat_server.py
-python3 chat_server.py
+    chmod +x chat_server.py
+    python3 chat_server.py
 
-Masukan IP address : 10.9.1.17
-Masukan Port : 8787
-[+] Menunggu Koneksi....
+    Masukan IP address : 10.9.1.17
+    Masukan Port : 8787
+    [+] Menunggu Koneksi....
 
 ## Lalu jalan kan script chat_client.py
 <p><b>Contoh jalankan chat_client.py<b><p>
 <br>
 -------------
-chmod +x chat_client.py
-python3 chat_client.py
-
-Masukan IP address : 10.9.1.17
-Masukan Port : 8787
+  chmod +x chat_client.py
+  python3 chat_client.py
+  
+  Masukan IP address : 10.9.1.17
+  Masukan Port : 8787
 
 ### Lalu kalian bisa masukan nickname kalian di kolom komentar :D
 
