@@ -4,7 +4,7 @@
 <br>
 ### Script ini bertujuan untuk mengirim pesan melalui TCP / W.A.N(Wide Area Network)
 
-## Script ini menggunakan Python 3 / python 3 +
+## Script ini menggunakan Python 3 / Python 3 +
 <p><b>Install python3 :<b><p>
     
     sudo apt-get install python3
