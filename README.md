@@ -1,7 +1,6 @@
 # python-chat
 <p><b>Script was made by hell0_th3re :D<b><p>
-<br>
-<p><b>My emain : rianprastio303@gmail.com<b><p>
+<p><b>My email : rianprastio303@gmail.com<b><p>
 <br>
 ### Script ini bertujuan untuk mengirim pesan melalui TCP / W.A.N(Wide Area Network)
 
